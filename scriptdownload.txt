@@ -1,15 +1,6 @@
 {
-  "name": "telibot",
-  "version": "1.0.0",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "dev": "node server.js",
-    "start": "node server.js",
-    "build": "node -e \"console.log('Build complete')\"",
-    "lint": "node -e \"console.log('Lint passed')\""
-  },
-  "dependencies": {
-    "express": "^4.21.2"
-  }
+  "name": "Telegram Mini Bot Script Download",
+  "description": "Download Telegram Mini Bot scripts by watching ads to unlock files with Monetag integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
